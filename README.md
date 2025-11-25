@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23743025/README.md)
 # 📍 Extractor de Coordenadas para enlaces acortados de Google Maps (`maps.app.goo.gl`)
 
 Este proyecto permite extraer automáticamente la **latitud y longitud** desde enlaces acortados de Google Maps, específicamente los que usan este formato:
